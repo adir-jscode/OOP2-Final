@@ -16,6 +16,8 @@ namespace Calculator
                 result *= x;
             }
             return result;
+
+            //return (int)Math.Pow(x, y);
         }
 
         public int Square(int x)
@@ -43,6 +45,6 @@ namespace Calculator
             return result;
         }
     }
-    {
-    }
+    
+    
 }
