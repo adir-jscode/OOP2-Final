@@ -1,0 +1,15 @@
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Abstraction\Abstraction\bin\Debug\net7.0\Abstraction.exe
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Abstraction\Abstraction\bin\Debug\net7.0\Abstraction.deps.json
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Abstraction\Abstraction\bin\Debug\net7.0\Abstraction.runtimeconfig.json
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Abstraction\Abstraction\bin\Debug\net7.0\Abstraction.dll
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Abstraction\Abstraction\bin\Debug\net7.0\Abstraction.pdb
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Abstraction\Abstraction\obj\Debug\net7.0\Abstraction.csproj.AssemblyReference.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Abstraction\Abstraction\obj\Debug\net7.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Abstraction\Abstraction\obj\Debug\net7.0\Abstraction.AssemblyInfoInputs.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Abstraction\Abstraction\obj\Debug\net7.0\Abstraction.AssemblyInfo.cs
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Abstraction\Abstraction\obj\Debug\net7.0\Abstraction.csproj.CoreCompileInputs.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Abstraction\Abstraction\obj\Debug\net7.0\Abstraction.dll
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Abstraction\Abstraction\obj\Debug\net7.0\refint\Abstraction.dll
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Abstraction\Abstraction\obj\Debug\net7.0\Abstraction.pdb
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Abstraction\Abstraction\obj\Debug\net7.0\Abstraction.genruntimeconfig.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Abstraction\Abstraction\obj\Debug\net7.0\ref\Abstraction.dll
