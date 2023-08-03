@@ -28,7 +28,7 @@ namespace Abstraction
             //}
 
 
-            //ANOTHER EXAMPLE (Null coalecing Operator ??)
+            //ANOTHER EXAMPLE (Null coalescing Operator ??)
 
             //int AvailableTickets;
             //int? TicketsOnSale = 100;
@@ -46,7 +46,7 @@ namespace Abstraction
             //Console.WriteLine("Tickets Available = {0}", AvailableTickets);
 
 
-            //Using null coalecing 
+            //Using null coalescing 
 
             int? TicketsOnSale = 100;
 
