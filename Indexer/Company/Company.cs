@@ -19,6 +19,17 @@ namespace Company
             listEmployee.Add(new Employee() { EmployeeID = 4, Name = "Todd" });
         }
 
+        public string this[int employeeID]
+        {
+            get
+            {
+                return listEmployee.FirstOrDefault(emp=>emp.EmployeeID == employeeID).Name;
+            }
+            set
+            {
+                listEmployee.FirstOrDefault(emp=> emp.EmployeeID == employeeID).Name = value;
+            }
+        }
 
     }
 }

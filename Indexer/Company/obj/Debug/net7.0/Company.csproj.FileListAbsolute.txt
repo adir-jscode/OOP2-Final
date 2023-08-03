@@ -1,0 +1,15 @@
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Indexer\Company\bin\Debug\net7.0\Company.exe
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Indexer\Company\bin\Debug\net7.0\Company.deps.json
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Indexer\Company\bin\Debug\net7.0\Company.runtimeconfig.json
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Indexer\Company\bin\Debug\net7.0\Company.dll
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Indexer\Company\bin\Debug\net7.0\Company.pdb
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Indexer\Company\obj\Debug\net7.0\Company.csproj.AssemblyReference.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Indexer\Company\obj\Debug\net7.0\Company.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Indexer\Company\obj\Debug\net7.0\Company.AssemblyInfoInputs.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Indexer\Company\obj\Debug\net7.0\Company.AssemblyInfo.cs
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Indexer\Company\obj\Debug\net7.0\Company.csproj.CoreCompileInputs.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Indexer\Company\obj\Debug\net7.0\Company.dll
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Indexer\Company\obj\Debug\net7.0\refint\Company.dll
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Indexer\Company\obj\Debug\net7.0\Company.pdb
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Indexer\Company\obj\Debug\net7.0\Company.genruntimeconfig.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Indexer\Company\obj\Debug\net7.0\ref\Company.dll
