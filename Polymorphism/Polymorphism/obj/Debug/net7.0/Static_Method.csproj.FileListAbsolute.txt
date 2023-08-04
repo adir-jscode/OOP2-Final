@@ -1,0 +1,15 @@
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Polymorphism\Polymorphism\bin\Debug\net7.0\Static_Method.exe
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Polymorphism\Polymorphism\bin\Debug\net7.0\Static_Method.deps.json
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Polymorphism\Polymorphism\bin\Debug\net7.0\Static_Method.runtimeconfig.json
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Polymorphism\Polymorphism\bin\Debug\net7.0\Static_Method.dll
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Polymorphism\Polymorphism\bin\Debug\net7.0\Static_Method.pdb
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Polymorphism\Polymorphism\obj\Debug\net7.0\Static_Method.csproj.AssemblyReference.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Polymorphism\Polymorphism\obj\Debug\net7.0\Static_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Polymorphism\Polymorphism\obj\Debug\net7.0\Static_Method.AssemblyInfoInputs.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Polymorphism\Polymorphism\obj\Debug\net7.0\Static_Method.AssemblyInfo.cs
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Polymorphism\Polymorphism\obj\Debug\net7.0\Static_Method.csproj.CoreCompileInputs.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Polymorphism\Polymorphism\obj\Debug\net7.0\Static_Method.dll
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Polymorphism\Polymorphism\obj\Debug\net7.0\refint\Static_Method.dll
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Polymorphism\Polymorphism\obj\Debug\net7.0\Static_Method.pdb
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Polymorphism\Polymorphism\obj\Debug\net7.0\Static_Method.genruntimeconfig.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Polymorphism\Polymorphism\obj\Debug\net7.0\ref\Static_Method.dll
