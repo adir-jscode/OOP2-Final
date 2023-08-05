@@ -1,0 +1,15 @@
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Delegates\Delegates_Useage_2\bin\Debug\net7.0\Delegates_Useage_2.exe
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Delegates\Delegates_Useage_2\bin\Debug\net7.0\Delegates_Useage_2.deps.json
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Delegates\Delegates_Useage_2\bin\Debug\net7.0\Delegates_Useage_2.runtimeconfig.json
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Delegates\Delegates_Useage_2\bin\Debug\net7.0\Delegates_Useage_2.dll
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Delegates\Delegates_Useage_2\bin\Debug\net7.0\Delegates_Useage_2.pdb
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Delegates\Delegates_Useage_2\obj\Debug\net7.0\Delegates_Useage_2.csproj.AssemblyReference.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Delegates\Delegates_Useage_2\obj\Debug\net7.0\Delegates_Useage_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Delegates\Delegates_Useage_2\obj\Debug\net7.0\Delegates_Useage_2.AssemblyInfoInputs.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Delegates\Delegates_Useage_2\obj\Debug\net7.0\Delegates_Useage_2.AssemblyInfo.cs
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Delegates\Delegates_Useage_2\obj\Debug\net7.0\Delegates_Useage_2.csproj.CoreCompileInputs.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Delegates\Delegates_Useage_2\obj\Debug\net7.0\Delegates_Useage_2.dll
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Delegates\Delegates_Useage_2\obj\Debug\net7.0\refint\Delegates_Useage_2.dll
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Delegates\Delegates_Useage_2\obj\Debug\net7.0\Delegates_Useage_2.pdb
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Delegates\Delegates_Useage_2\obj\Debug\net7.0\Delegates_Useage_2.genruntimeconfig.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2-Final\Delegates\Delegates_Useage_2\obj\Debug\net7.0\ref\Delegates_Useage_2.dll
