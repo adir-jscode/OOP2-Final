@@ -52,13 +52,14 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.Image = Properties.Resources.Login;
+            pictureBox1.Image = Login_Form.Properties.Resources.Login;
             pictureBox1.Location = new Point(26, 109);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(290, 329);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 6;
             pictureBox1.TabStop = false;
+            pictureBox1.Click += pictureBox1_Click;
             // 
             // groupBox1
             // 
