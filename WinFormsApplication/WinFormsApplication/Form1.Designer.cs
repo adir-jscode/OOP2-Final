@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             Login = new Label();
             pictureBox1 = new PictureBox();
             groupBox1 = new GroupBox();
@@ -36,8 +37,13 @@
             label2 = new Label();
             textBox1 = new TextBox();
             label1 = new Label();
+            errorProvider1 = new ErrorProvider(components);
+            errorProvider2 = new ErrorProvider(components);
+            button2 = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)errorProvider1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)errorProvider2).BeginInit();
             SuspendLayout();
             // 
             // Login
@@ -63,6 +69,7 @@
             // 
             // groupBox1
             // 
+            groupBox1.Controls.Add(button2);
             groupBox1.Controls.Add(button1);
             groupBox1.Controls.Add(textBox2);
             groupBox1.Controls.Add(label2);
@@ -78,16 +85,17 @@
             // 
             // button1
             // 
-            button1.Location = new Point(130, 228);
+            button1.Location = new Point(181, 229);
             button1.Name = "button1";
             button1.Size = new Size(123, 49);
             button1.TabIndex = 4;
             button1.Text = "Login";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click_1;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(100, 131);
+            textBox2.Location = new Point(99, 131);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(204, 30);
             textBox2.TabIndex = 3;
@@ -108,15 +116,34 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(204, 30);
             textBox1.TabIndex = 1;
+            textBox1.TextChanged += textBox1_TextChanged_1;
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.Location = new Point(6, 69);
             label1.Name = "label1";
-            label1.Size = new Size(92, 22);
+            label1.Size = new Size(56, 22);
             label1.TabIndex = 0;
-            label1.Text = "Username";
+            label1.Text = "Email";
+            // 
+            // errorProvider1
+            // 
+            errorProvider1.ContainerControl = this;
+            // 
+            // errorProvider2
+            // 
+            errorProvider2.ContainerControl = this;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(33, 229);
+            button2.Name = "button2";
+            button2.Size = new Size(123, 49);
+            button2.TabIndex = 5;
+            button2.Text = "Join";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // Form1
             // 
@@ -133,6 +160,8 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)errorProvider1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)errorProvider2).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -146,5 +175,8 @@
         private Label label1;
         private Button button1;
         private TextBox textBox2;
+        private ErrorProvider errorProvider1;
+        private ErrorProvider errorProvider2;
+        private Button button2;
     }
 }

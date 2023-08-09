@@ -1,3 +1,4 @@
+using Login_Form;
 using System.Windows.Forms;
 
 namespace WinFormsApplication
@@ -54,6 +55,38 @@ namespace WinFormsApplication
         private void pictureBox1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            DB.Get.LoginAuth(textBox1.Text, textBox2.Text);
+            MessageBox.Show("Welcome to our System");
+
+            //Register main = new Register();
+            //main.Show();
+        }
+
+        private void textBox1_TextChanged_1(object sender, EventArgs e)
+        {
+            //check null or empty
+            if (string.IsNullOrEmpty(textBox1.Text))
+            {
+                textBox1.Focus();
+                //errorProvider1.Icon = Properties.Resources.error;
+                errorProvider1.SetError(this.textBox1, "Enter your email please!");
+                MessageBox.Show("Enter your email please!");
+            }
+            else
+            {
+                //errorProvider1.Icon = Properties.Resources.check;
+                errorProvider1.Clear();
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Register main = new Register();
+            main.Show();
         }
     }
 }
