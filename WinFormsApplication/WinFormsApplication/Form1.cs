@@ -1,5 +1,6 @@
 using Login_Form;
 using System.Windows.Forms;
+using System;
 
 namespace WinFormsApplication
 {
@@ -72,7 +73,7 @@ namespace WinFormsApplication
             if (string.IsNullOrEmpty(textBox1.Text))
             {
                 textBox1.Focus();
-                //errorProvider1.Icon = Properties.Resources.error;
+                //errorProvider1.Icon = System.Properties.Resources.error;
                 errorProvider1.SetError(this.textBox1, "Enter your email please!");
                 MessageBox.Show("Enter your email please!");
             }

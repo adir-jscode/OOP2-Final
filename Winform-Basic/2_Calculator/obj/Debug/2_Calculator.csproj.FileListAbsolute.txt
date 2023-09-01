@@ -1,0 +1,30 @@
+C:\Users\Teacher\Desktop\WindowsFormsApplication1\2_Calculator\bin\Debug\2_Calculator.exe.config
+C:\Users\Teacher\Desktop\WindowsFormsApplication1\2_Calculator\bin\Debug\2_Calculator.exe
+C:\Users\Teacher\Desktop\WindowsFormsApplication1\2_Calculator\bin\Debug\2_Calculator.pdb
+C:\Users\Teacher\Desktop\WindowsFormsApplication1\2_Calculator\obj\Debug\_2_Calculator.Form1.resources
+C:\Users\Teacher\Desktop\WindowsFormsApplication1\2_Calculator\obj\Debug\_2_Calculator.Properties.Resources.resources
+C:\Users\Teacher\Desktop\WindowsFormsApplication1\2_Calculator\obj\Debug\2_Calculator.csproj.GenerateResource.Cache
+C:\Users\Teacher\Desktop\WindowsFormsApplication1\2_Calculator\obj\Debug\2_Calculator.exe
+C:\Users\Teacher\Desktop\WindowsFormsApplication1\2_Calculator\obj\Debug\2_Calculator.pdb
+C:\Users\Teacher\Desktop\Week-11\WindowsFormsApplication1\2_Calculator\bin\Debug\2_Calculator.exe.config
+C:\Users\Teacher\Desktop\Week-11\WindowsFormsApplication1\2_Calculator\obj\Debug\2_Calculator.exe
+C:\Users\Teacher\Desktop\Week-11\WindowsFormsApplication1\2_Calculator\obj\Debug\2_Calculator.pdb
+C:\Users\Teacher\Desktop\OOP2_W10_Summer_2020-21\WindowsFormsApplication1\2_Calculator\bin\Debug\2_Calculator.exe.config
+C:\Users\Teacher\Desktop\OOP2_W10_Summer_2020-21\WindowsFormsApplication1\2_Calculator\obj\Debug\2_Calculator.exe
+C:\Users\Teacher\Desktop\OOP2_W10_Summer_2020-21\WindowsFormsApplication1\2_Calculator\obj\Debug\2_Calculator.pdb
+C:\Users\Teacher\Desktop\OOP2_W10_Summer_2020-21\WindowsFormsApplication1\2_Calculator\bin\Debug\2_Calculator.exe
+C:\Users\Teacher\Desktop\OOP2_W10_Summer_2020-21\WindowsFormsApplication1\2_Calculator\bin\Debug\2_Calculator.pdb
+C:\Users\Teacher\Desktop\OOP2_W10_Summer_2020-21\WindowsFormsApplication1\2_Calculator\obj\Debug\_2_Calculator.Form1.resources
+C:\Users\Teacher\Desktop\OOP2_W10_Summer_2020-21\WindowsFormsApplication1\2_Calculator\obj\Debug\_2_Calculator.Properties.Resources.resources
+C:\Users\Teacher\Desktop\OOP2_W10_Summer_2020-21\WindowsFormsApplication1\2_Calculator\obj\Debug\2_Calculator.csproj.GenerateResource.Cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\2_Calculator\bin\Debug\2_Calculator.exe.config
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\2_Calculator\bin\Debug\2_Calculator.exe
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\2_Calculator\bin\Debug\2_Calculator.pdb
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\2_Calculator\obj\Debug\2_Calculator.csproj.AssemblyReference.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\2_Calculator\obj\Debug\2_Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\2_Calculator\obj\Debug\_2_Calculator.Form1.resources
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\2_Calculator\obj\Debug\_2_Calculator.Properties.Resources.resources
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\2_Calculator\obj\Debug\2_Calculator.csproj.GenerateResource.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\2_Calculator\obj\Debug\2_Calculator.csproj.CoreCompileInputs.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\2_Calculator\obj\Debug\2_Calculator.exe
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\2_Calculator\obj\Debug\2_Calculator.pdb

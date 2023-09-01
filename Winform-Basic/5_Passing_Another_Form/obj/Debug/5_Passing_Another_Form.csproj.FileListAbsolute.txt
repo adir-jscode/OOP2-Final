@@ -1,0 +1,35 @@
+C:\Users\Teacher\Desktop\WindowsFormsApplication1\5_Passing_Another_Form\bin\Debug\5_Passing_Another_Form.exe.config
+C:\Users\Teacher\Desktop\WindowsFormsApplication1\5_Passing_Another_Form\bin\Debug\5_Passing_Another_Form.exe
+C:\Users\Teacher\Desktop\WindowsFormsApplication1\5_Passing_Another_Form\bin\Debug\5_Passing_Another_Form.pdb
+C:\Users\Teacher\Desktop\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\_5_Passing_Another_Form.Form1.resources
+C:\Users\Teacher\Desktop\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\_5_Passing_Another_Form.Properties.Resources.resources
+C:\Users\Teacher\Desktop\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\5_Passing_Another_Form.csproj.GenerateResource.Cache
+C:\Users\Teacher\Desktop\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\5_Passing_Another_Form.exe
+C:\Users\Teacher\Desktop\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\5_Passing_Another_Form.pdb
+C:\Users\Teacher\Desktop\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\_5_Passing_Another_Form.Form2.resources
+C:\Users\Teacher\Desktop\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\5_Passing_Another_Form.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\Week-11\WindowsFormsApplication1\5_Passing_Another_Form\bin\Debug\5_Passing_Another_Form.exe.config
+C:\Users\Teacher\Desktop\Week-11\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\5_Passing_Another_Form.exe
+C:\Users\Teacher\Desktop\Week-11\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\5_Passing_Another_Form.pdb
+C:\Users\Teacher\Desktop\OOP2_W10_Summer_2020-21\WindowsFormsApplication1\5_Passing_Another_Form\bin\Debug\5_Passing_Another_Form.exe.config
+C:\Users\Teacher\Desktop\OOP2_W10_Summer_2020-21\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\5_Passing_Another_Form.exe
+C:\Users\Teacher\Desktop\OOP2_W10_Summer_2020-21\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\5_Passing_Another_Form.pdb
+C:\Users\Teacher\Desktop\OOP2_W10_Summer_2020-21\WindowsFormsApplication1\5_Passing_Another_Form\bin\Debug\5_Passing_Another_Form.exe
+C:\Users\Teacher\Desktop\OOP2_W10_Summer_2020-21\WindowsFormsApplication1\5_Passing_Another_Form\bin\Debug\5_Passing_Another_Form.pdb
+C:\Users\Teacher\Desktop\OOP2_W10_Summer_2020-21\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\5_Passing_Another_Form.csprojResolveAssemblyReference.cache
+C:\Users\Teacher\Desktop\OOP2_W10_Summer_2020-21\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\_5_Passing_Another_Form.Form1.resources
+C:\Users\Teacher\Desktop\OOP2_W10_Summer_2020-21\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\_5_Passing_Another_Form.Form2.resources
+C:\Users\Teacher\Desktop\OOP2_W10_Summer_2020-21\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\_5_Passing_Another_Form.Properties.Resources.resources
+C:\Users\Teacher\Desktop\OOP2_W10_Summer_2020-21\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\5_Passing_Another_Form.csproj.GenerateResource.Cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\5_Passing_Another_Form\bin\Debug\5_Passing_Another_Form.exe.config
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\5_Passing_Another_Form\bin\Debug\5_Passing_Another_Form.exe
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\5_Passing_Another_Form\bin\Debug\5_Passing_Another_Form.pdb
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\5_Passing_Another_Form.csproj.AssemblyReference.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\5_Passing_Another_Form.csproj.SuggestedBindingRedirects.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\_5_Passing_Another_Form.Form1.resources
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\_5_Passing_Another_Form.Form2.resources
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\_5_Passing_Another_Form.Properties.Resources.resources
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\5_Passing_Another_Form.csproj.GenerateResource.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\5_Passing_Another_Form.csproj.CoreCompileInputs.cache
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\5_Passing_Another_Form.exe
+D:\Semester\Object Oriented Programming 2 C#\OOP2_C4_Summer_2022-23\OOP2_C4_Summer_2022-23\WindowsFormsApplication1\5_Passing_Another_Form\obj\Debug\5_Passing_Another_Form.pdb
